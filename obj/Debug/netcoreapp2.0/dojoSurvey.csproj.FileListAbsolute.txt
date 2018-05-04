@@ -1,0 +1,10 @@
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/dojoSurvey/bin/Debug/netcoreapp2.0/dojoSurvey.deps.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/dojoSurvey/bin/Debug/netcoreapp2.0/dojoSurvey.runtimeconfig.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/dojoSurvey/bin/Debug/netcoreapp2.0/dojoSurvey.runtimeconfig.dev.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/dojoSurvey/bin/Debug/netcoreapp2.0/dojoSurvey.dll
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/dojoSurvey/bin/Debug/netcoreapp2.0/dojoSurvey.pdb
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/dojoSurvey/obj/Debug/netcoreapp2.0/dojoSurvey.csproj.CoreCompileInputs.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/dojoSurvey/obj/Debug/netcoreapp2.0/dojoSurvey.AssemblyInfoInputs.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/dojoSurvey/obj/Debug/netcoreapp2.0/dojoSurvey.AssemblyInfo.cs
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/dojoSurvey/obj/Debug/netcoreapp2.0/dojoSurvey.dll
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/dojoSurvey/obj/Debug/netcoreapp2.0/dojoSurvey.pdb

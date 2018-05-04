@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/style.css"/>
+        <title>Dojo Survey</title>
+    </head>
+    <body>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Submitted Info</th>
+                </tr>
+                <tr>
+                    <th>Name</th>
+                    <th>Location</th>
+                    <th>Favorite Language</th>
+                    <th>Additional Comments</th>
+                </tr>
+            </thead>
+            <tr>
+                <td>@ViewBag.yourName</td>
+                <td>@ViewBag.Location</td>
+                <td>@ViewBag.favLang</td>
+                <td>@ViewBag.addlComm</td>
+            </tr>
+            <a href="/home">Back</a>
+        </table>
+    </body>
+</html>
